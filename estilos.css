@@ -1,0 +1,17 @@
+#divi {
+    background-color: blueviolet;
+    margin: auto;
+    padding: 0%;
+
+}
+
+div ul {
+    flex: auto;
+    justify-content: center;
+    list-style: none;
+}
+
+div ul li {
+    justify-content: center;
+    text-align: center;
+}
